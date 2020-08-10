@@ -92,7 +92,7 @@ export default class HelloWorldWebPart extends BaseClientSideWebPart<IHelloWorld
         <div class="${ styles.container }">
           <div class="${ styles.row }">
             <div class="${ styles.column }">
-              <span class="${ styles.title }">Bem vindo ao Sharepoint MTC São Paulo v1.0!</span>
+              <span class="${ styles.title }">Bem vindo ao Sharepoint MTC São Paulo v1.1!</span>
               <p class="${ styles.subTitle }">Você pode customizar suas experiências no SharePoint usando web parts.</p>
               <p class="${ styles.description }">${escape(this.properties.description)}</p>
               <p class="${ styles.description }">${escape(this.properties.test)}</p>
